@@ -1,0 +1,14 @@
+<keyframes>
+    <key>
+        <x>0.021484</x>
+        <y>0.500000</y>
+        <easefunc>3</easefunc>
+        <easetype>0</easetype>
+    </key>
+    <key>
+        <x>0.814453</x>
+        <y>0.500000</y>
+        <easefunc>0</easefunc>
+        <easetype>0</easetype>
+    </key>
+</keyframes>
